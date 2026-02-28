@@ -4,9 +4,7 @@ I am dedicated to transforming "zombie data" into strategic assets, this reposit
 I filter out the "noise" to deliver actionable GO / NO-GO signals. Whether auditing microfinance risk, optimizing operational efficiency or 
 finding signals that save lives, my work is built on the principle that in a world of data "fluff," clarity is the ultimate competitive advantage.
 
-I’m currently an intern at edMotion Technologies.
-I’m currently learning Data Science.
-I’m looking to collaborate with great minds that challenge me to be better.
+I’m currently an intern at edMotion Technologies as well as learning Data Science, looking to collaborate with great minds that challenge me to be better.
 My goal in the health sector is to find the signals that save lives, save time, and save resources. Its to move from "What happened to this patient?" to "How do we ensure the next patient has a better outcome?"
 
 How to reach me: onyechederbie@gmail.com
