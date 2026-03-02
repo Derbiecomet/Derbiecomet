@@ -1,11 +1,10 @@
 ### My name is Deborah Onyeche and I'm a Nigerian, from Nigeria.
 
-I am dedicated to transforming "zombie data" into strategic assets, this repository showcases a high-impact approach to analytics that prioritizes mental model.
-I filter out the "noise" to deliver actionable GO / NO-GO signals. Whether auditing microfinance risk, optimizing operational efficiency or 
-finding signals that save lives, my work is built on the principle that in a world of data "fluff," clarity is the ultimate competitive advantage.
+I am a Data Analyst driven by the intersection of operational precision and strategic decision-making. My background is non-traditional but data-heavy: from the meticulous documentation required as a Laboratory Technician to the complex information synthesis of a Class Tutor, and currently, the supply-chain analytics involved in my role as a Procurement Officer.
+
+These experiences taught me that data is only as good as its integrity and its delivery. Whether I’m optimizing procurement pipelines or managing company representation, I am passionate about transforming raw operational data into actionable insights that drive efficiency and sustainable growth. I am now merging this hands-on experience with advanced technical skills in SQL, Python, and Power BI to solve high-stakes business problems.
 
 I’m currently an intern at edMotion Technologies as well as learning Data Science, looking to collaborate with great minds that challenge me to be better.
-My goal in the health sector is to find the signals that save lives, save time, and save resources. Its to move from "What happened to this patient?" to "How do we ensure the next patient has a better outcome?"
 
 How to reach me: onyechederbie@gmail.com
 
