@@ -10,37 +10,22 @@ These experiences taught me that data is only as good as its integrity and its d
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a Data Analyst at edMotion Technologies, I am dedicated to transforming "zombie data" into strategic assets, showcasing high-impact approach to analytics that prioritizes mental model.*
 
 **- ✅ Data Cleaning & Integrity**
-Sanitizing Raw Inputs: Just like prepping a sterile lab environment, you identify and remove "noise," duplicates, and outliers from datasets to prevent "contaminated" results.
+- I ensure the data being analyzed is accurate and fits the required "specifications" for a project.
 
-Validation: Ensuring that the data being analyzed is accurate and fits the required "specifications" for a project.
+**- ✅ Exploratory Data Analysis**
+- I investigate datasets to find hidden patterns—asking "Why did our procurement costs spike last month?", using Python and SQL to calculate averages, trends, and   variances to see the "health" of the company's operations.
 
-2. Exploratory Data Analysis (The "Researcher" Mindset)
-Hypothesis Testing: Investigating datasets to find hidden patterns—asking "Why did our procurement costs spike last month?" or "What is the correlation between tutor sessions and student success?"
+**- ✅ Data Visualization & Dashboarding**
+- I build automated dashboards in Power BI or Excel that act as a "Live Pulse" for the company; creating charts that allow a busy manager to understand a 10,000-    row spreadsheet in under 10 seconds.
 
-Statistical Profiling: Using Python and SQL to calculate averages, trends, and variances to see the "health" of the company's operations.
+**- ✅ Data Storytelling**
+- I translate technical findings into "Plain English" for stakeholders who aren't data-savvy. Explaining not just what the numbers are, but why they matter and how they impact the bottom line.
 
-3. Data Visualization & Dashboarding (The "Visual Architect")
-KPI Tracking: Building automated dashboards in Power BI or Excel that act as a "Live Pulse" for the company (e.g., tracking inventory turnover or budget vs. actual spend).
-
-Simplifying Complexity: Creating charts that allow a busy manager to understand a 10,000-row spreadsheet in under 10 seconds.
-
-4. Data Storytelling (The "Class Tutor" Mindset)
-Bridging the Gap: Translating technical findings into "Plain English" for stakeholders who aren't data-savvy.
-
-Contextualizing Results: Explaining not just what the numbers are, but why they matter and how they impact the bottom line.
-
-5. Strategy & Optimization (The "Procurement" Mindset)
-Predictive Insights: Using historical data to forecast future needs, such as when to restock inventory or how to allocate resources more efficiently.
-
-Actionable Recommendations: Providing the "Terminal Decision"—telling the leadership, "Based on this data, we should change Supplier X to Supplier Y to save 15%."
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Strategy & Optimization**
+Using historical data to forecast future needs, such as when to restock inventory or how to allocate resources more efficiently, I provide the "Terminal Decision".
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -81,15 +66,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:onyechederbie@gmail.com">onyechederbie@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 9068212052</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -114,7 +99,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 ### 
 I’m currently an intern at edMotion Technologies as well as learning Data Science, looking to collaborate with great minds that challenge me to be better.
 
-How to reach me: onyechederbie@gmail.com
+How to reach me: 
 
 ### Tools
 - Python
