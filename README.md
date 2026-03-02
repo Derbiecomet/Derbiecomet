@@ -25,7 +25,7 @@ These experiences taught me that data is only as good as its integrity and its d
 - I translate technical findings into "Plain English" for stakeholders who aren't data-savvy. Explaining not just what the numbers are, but why they matter and how they impact the bottom line.
 
 **- ✅ Strategy & Optimization**
-Using historical data to forecast future needs, such as when to restock inventory or how to allocate resources more efficiently, I provide the "Terminal Decision".
+- Using historical data to forecast future needs, such as when to restock inventory or how to allocate resources more efficiently, I provide the "Terminal Decision".
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
