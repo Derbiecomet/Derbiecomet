@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello!My name is Deborah Onyeche, a data analyst driven by the intersection of operational precision and strategic decision-making. My background is non-traditional but data-heavy: from the meticulous documentation required as a Laboratory Technician to the complex information synthesis of a Class Tutor, and currently, the supply-chain analytics involved in my role as a Procurement Officer.
+Hello! My name is Deborah Onyeche, a data analyst driven by the intersection of operational precision and strategic decision-making. My background is non-traditional but data-heavy: from the meticulous documentation required as a Laboratory Technician to the complex information synthesis of a Class Tutor, and currently, the supply-chain analytics involved in my role as a Procurement Officer.
 
 These experiences taught me that data is only as good as its integrity and its delivery. Whether I’m optimizing procurement pipelines or managing company representation, I am passionate about transforming raw operational data into actionable insights that drive efficiency and sustainable growth. I am now merging this hands-on experience with advanced technical skills in SQL, Python, and Power BI to solve high-stakes business problems.
 
@@ -12,12 +12,37 @@ These experiences taught me that data is only as good as its integrity and its d
 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
+**- ✅ Data Cleaning & Integrity**
+Sanitizing Raw Inputs: Just like prepping a sterile lab environment, you identify and remove "noise," duplicates, and outliers from datasets to prevent "contaminated" results.
+
+Validation: Ensuring that the data being analyzed is accurate and fits the required "specifications" for a project.
+
+2. Exploratory Data Analysis (The "Researcher" Mindset)
+Hypothesis Testing: Investigating datasets to find hidden patterns—asking "Why did our procurement costs spike last month?" or "What is the correlation between tutor sessions and student success?"
+
+Statistical Profiling: Using Python and SQL to calculate averages, trends, and variances to see the "health" of the company's operations.
+
+3. Data Visualization & Dashboarding (The "Visual Architect")
+KPI Tracking: Building automated dashboards in Power BI or Excel that act as a "Live Pulse" for the company (e.g., tracking inventory turnover or budget vs. actual spend).
+
+Simplifying Complexity: Creating charts that allow a busy manager to understand a 10,000-row spreadsheet in under 10 seconds.
+
+4. Data Storytelling (The "Class Tutor" Mindset)
+Bridging the Gap: Translating technical findings into "Plain English" for stakeholders who aren't data-savvy.
+
+Contextualizing Results: Explaining not just what the numbers are, but why they matter and how they impact the bottom line.
+
+5. Strategy & Optimization (The "Procurement" Mindset)
+Predictive Insights: Using historical data to forecast future needs, such as when to restock inventory or how to allocate resources more efficiently.
+
+Actionable Recommendations: Providing the "Terminal Decision"—telling the leadership, "Based on this data, we should change Supplier X to Supplier Y to save 15%."
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Staff Training & Development.**
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
