@@ -29,6 +29,22 @@ Using historical data to forecast future needs, such as when to restock inventor
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<!--Mention the tools learnt and using for analysis-->
+### Tools
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebooks / VS Code
+- PostgreSQL
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Microsoft Excel / Google Sheets
+- Pivot Tables & Pivot Charts
+- XLOOKUP / Index-Match
+- Power Query
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
@@ -82,34 +98,12 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/deborah-onyeche-a56584219/">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
 
 
 
-
-
-
-### 
-I’m currently an intern at edMotion Technologies as well as learning Data Science, looking to collaborate with great minds that challenge me to be better.
-
-How to reach me: 
-
-### Tools
-- Python
-- Pandas
-- NumPy
-- Jupyter Notebooks / VS Code
-- PostgreSQL
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Microsoft Excel / Google Sheets
-- Pivot Tables & Pivot Charts
-- XLOOKUP / Index-Match
-- Power Query
