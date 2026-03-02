@@ -8,7 +8,7 @@ These experiences taught me that data is only as good as its integrity and its d
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## SKILLS
 
 *As a Data Analyst at edMotion Technologies, I am dedicated to transforming "zombie data" into strategic assets, showcasing high-impact approach to analytics that prioritizes mental model.*
 
@@ -30,7 +30,8 @@ Using historical data to forecast future needs, such as when to restock inventor
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--Mention the tools learnt and using for analysis-->
-### Tools
+## TOOLS
+
 - Python
 - Pandas
 - NumPy
@@ -46,7 +47,7 @@ Using historical data to forecast future needs, such as when to restock inventor
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
@@ -58,6 +59,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
+
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
@@ -65,6 +67,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
@@ -74,6 +77,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## CONTACT DETAILS
 
