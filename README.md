@@ -8,7 +8,7 @@ A data analyst driven by the intersection of operational precision and strategic
 
 <!Analytical Focus-->
 
-I am passionate about transforming raw operational data into actionable insights that drive efficiency and sustainable growth. I am now merging this hands-on experience with advanced technical skills in SQL, Python, and Power BI to solve high-stakes business problems.
+I am investing in transforming raw operational data into actionable insights that drive efficiency and sustainable growth. I am now merging this hands-on experience with advanced technical skills in SQL, Python, and Power BI to solve high-stakes business problems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
