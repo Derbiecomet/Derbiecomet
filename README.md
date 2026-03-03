@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! My name is Deborah Onyeche
+Hello! My name is Deborah Onyeche. 
 A data analyst driven by the intersection of operational precision and strategic decision-making.
 
 ---
