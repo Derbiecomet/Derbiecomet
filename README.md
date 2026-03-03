@@ -1,9 +1,14 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! My name is Deborah Onyeche, a data analyst driven by the intersection of operational precision and strategic decision-making. My background is non-traditional but data-heavy: from the meticulous documentation required as a Laboratory Technician to the complex information synthesis of a Class Tutor, and currently, the supply-chain analytics involved in my role as a Procurement Officer.
+Hello! My name is Deborah Onyeche
+A data analyst driven by the intersection of operational precision and strategic decision-making.
 
-These experiences taught me that data is only as good as its integrity and its delivery. Whether I’m optimizing procurement pipelines or managing company representation, I am passionate about transforming raw operational data into actionable insights that drive efficiency and sustainable growth. I am now merging this hands-on experience with advanced technical skills in SQL, Python, and Power BI to solve high-stakes business problems.
+---
+
+<!Analytical Focus-->
+
+I am passionate about transforming raw operational data into actionable insights that drive efficiency and sustainable growth. I am now merging this hands-on experience with advanced technical skills in SQL, Python, and Power BI to solve high-stakes business problems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,19 +35,14 @@ These experiences taught me that data is only as good as its integrity and its d
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--Mention the tools learnt and using for analysis-->
-## TOOLS
-
-- Python
-- Pandas
-- NumPy
-- Jupyter Notebooks / VS Code
-- PostgreSQL
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Microsoft Excel / Google Sheets
-- Pivot Tables & Pivot Charts
-- XLOOKUP / Index-Match
-- Power Query
+## 🧰 Toolkit
+| Category | Tools |
+|----------|-------|
+| **Languages** | SQL, Python |
+| **Visualization** | Matplotlib, Seaborn |
+| **Data Tools** | pandas, Excel, Google Sheets, Jupyter |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+| **Other** | Git, Google Colab, Kaggle |
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -53,6 +53,14 @@ These experiences taught me that data is only as good as its integrity and its d
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🌱 Currently Learning
+- Completing EdMotion Pod Task 01 — building a data analyst portfolio from scratch
+- Updating my profile README file using Github
+- Cleaning the project dataset and performing EDA (Exploratory Data Analysis) using Excel
+
+## 💡 Fun Fact
+I love trying out new recipes.
 
 ## CONTACT DETAILS
 
@@ -80,6 +88,8 @@ These experiences taught me that data is only as good as its integrity and its d
       <td><a href="https://www.linkedin.com/in/deborah-onyeche-a56584219/">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
+      <td>📫</td>
+      <td><a href="[derbiecomet.github.io/Derbiecomet/.github.io](https://derbiecomet.github.io/Derbiecomet/.github.io)">Portfolio</a></td>
     </tr>
   </tbody>
 </table>
