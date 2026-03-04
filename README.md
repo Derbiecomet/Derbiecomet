@@ -37,11 +37,11 @@ I am investing in transforming raw operational data into actionable insights tha
 ## 🧰 Toolkit
 | Category | Tools |
 |----------|-------|
-| **Languages** | SQL, Python |
-| **Visualization** | Matplotlib, Seaborn |
-| **Data Tools** | pandas, Excel, Google Sheets, Jupyter |
-| **Databases** | PostgreSQL, MySQL, SQLite |
-| **Other** | Git, Google Colab, Kaggle |
+- | **Languages** | SQL, Python |
+- | **Visualization** | Matplotlib, Seaborn |
+- | **Data Tools** | pandas, Excel, Google Sheets, Jupyter |
+- | **Databases** | PostgreSQL, MySQL, SQLite |
+- | **Other** | Git, Google Colab, Kaggle |
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
