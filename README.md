@@ -36,7 +36,7 @@ I am investing in transforming raw operational data into actionable insights tha
 <!--Mention the tools learnt and using for analysis-->
 ## 🧰 Toolkit
 | Category | Tools |
-|----------|-------|
+|--------|:-:|
 - | **Languages** | SQL, Python |
 - | **Visualization** | Matplotlib, Seaborn |
 - | **Data Tools** | pandas, Excel, Google Sheets, Jupyter |
